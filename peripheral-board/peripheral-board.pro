@@ -1,4 +1,4 @@
-update=Вс 05 ноя 2017 18:29:13
+update=Пн 06 ноя 2017 17:50:19
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName32=valves
 LibName33=/home/dmitrydzz/dev/mitya3/hardware3/dmitrydzz
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
